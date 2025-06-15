@@ -6,6 +6,7 @@ datePublished: Sun Jun 15 2025 15:07:11 GMT+0000 (Coordinated Universal Time)
 cuid: cmbxsu2aw000702ju9cqkdfwb
 slug: linux-hakkinda-ii-linuxu-kullanmak-icin-teknik-gerekcelerin-degerlendirilmesi
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749999943133/4efe3664-d710-4746-a01d-dbc17baf9695.webp
+tags: linux
 
 ---
 
@@ -43,7 +44,7 @@ Ayrıca, Linux, masaüstünde [%70'lik](https://www.statista.com/statistics/2180
 
 Kaynak tüketimi, eskiden donanım imkanları çok az olan bilgisayarlar için son derece elzem bir gereklilikti ve o kısıtlı donanıma yazılımı optimize edebilmek için kırk taklalar atılırdı. Bunun sonucu olarak ortaya inanılmaz performanslı ürünler ortaya çıkardı. FFmpeg veya Roller Coaster Tycoon gibi ürünler bunlardan bazılarıdır çünkü [low-level](https://medium.com/tech-sheet/yaz%C4%B1l%C4%B1mda-high-level-ve-low-level-a%C3%A7%C4%B1kl%C4%B1yoruz-95fef09107de) bir dille yazılan bu uygulamalar, donanım kaynaklarını en verimli şekilde kullanacak ölçüde yazılmıştır. Bu, özellikle RAM ve işlemci gücü grafiğinde bu gerekliliği gözler önüne sermektedir:
 
-[![Yıllara Göre İşlemci ve RAM grafiği](img/01-03.webp align="left")](https://www.researchgate.net/figure/Yearly-improvement-of-processor-and-DRAM-memory-speeds-for-a-time-period-of-three_fig2_340621273)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750000062438/c9711ee3-75a2-4487-a387-24fbf18a3320.webp align="center")
 
 Günümüzde ise, tablodan da görülebileceği üzere artan bu donanım bolluğu sebebiyle, optimizasyona neredeyse hiç dikkat edilmiyor. Bunun en facia örneklerinden birisi, ağır eleştiri alan Windows 11'dir. Kişisel kullanımımda da gördüğüm, WinUI3 framework'ü ile yeni bir UX felsefesine geçmiş Windows 11'in performansı içler acısıdır. Bunu, eski bir Microsoft mühendisi de geçenlerde dile getirmişti:
 
