@@ -227,3 +227,13 @@ kopek.havla();
 Fark ettiğiniz üzere köpek nesnesinde doğrudan `yasiyor` özelliği yoktur çünkü onu tanılmadık. Fakat JavaScript, prototype chain sırasına göre, önce köpek nesnesinin içinde bakıyor, bulamayınca köpek nesnesinin inheritance olarak aldığı prototipine **yani hayvan nesnesine bakıyor** ve orada buluyor. `hareketEt()` fonksiyonuna da aynı şekilde köpek içinde bakıyor, bulamazsa hayvan nesnesine gidiyor.
 
 Prototype zincirinin işleyişi de bu şekildedir. Sonraki yazımda görüşmek üzere!
+
+## Kaynaklar
+
+%[https://javascript.info/class-inheritance] 
+
+%[https://javascript.info/prototype-inheritance] 
+
+%[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain] 
+
+%[https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes]
