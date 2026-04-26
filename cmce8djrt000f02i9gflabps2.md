@@ -2,7 +2,7 @@
 title: "Webpack, TypeScript & Node.js (npm) ile Client-Side Web Projesi Taslağı Oluşturmak (2025) (DETAYLI)"
 seoTitle: "Webpack, TypeScript & Node.js Modern Bir Web Projesi Taslağı Oluşturma"
 seoDescription: "Kapsamlı bir rehberle Webpack, TypeScript ve Node.js kullanarak modern client-side web projesi oluşturmayı öğrenin."
-datePublished: Fri Jun 27 2025 03:06:33 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-27T03:06:33.689Z
 cuid: cmce8djrt000f02i9gflabps2
 slug: webpack-typescript-and-nodejs-npm-ile-client-side-web-projesi-taslagi-olusturmak-2025-detayli
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750985313951/612fae9f-d51f-4d04-bdd6-a8436562deb7.jpeg
