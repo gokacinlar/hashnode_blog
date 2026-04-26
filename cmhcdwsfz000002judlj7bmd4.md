@@ -2,7 +2,7 @@
 title: "TypeScript + Headless WordPress + GraphQL ile Blog Önyüzü Geliştirmek"
 seoTitle: "Developing a Blog Frontend with TypeScript"
 seoDescription: "Önyüz geliştiricileri için TypeScript ve GraphQL ile Headless WordPress blog oluşturmanın adımları ve avantajları."
-datePublished: Wed Oct 29 2025 19:24:28 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-29T19:24:28.799Z
 cuid: cmhcdwsfz000002judlj7bmd4
 slug: typescript-headless-wordpress-graphql-ile-blog-onyuzu-gelistirmek
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761765847549/e01daef6-e32b-4fa0-a8a4-c31bb96956f0.jpeg
