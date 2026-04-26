@@ -2,7 +2,7 @@
 title: "TypeScript'te Light DOM ve Shadow DOM kullanımı ve farkları"
 seoTitle: "TypeScript'te Light DOM ve Shadow DOM kullanımı ve farkları"
 seoDescription: "Document Object Model'in alt dallarını teşkil eden ve bileşenlerin uygulanmasıyla ilgili Light DOM ve Shadow DOM'un farklılıklarını tartışıyoruz."
-datePublished: Wed Jun 25 2025 10:13:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-25T10:13:09.431Z
 cuid: cmcbsqg8n001102ld5kege8x7
 slug: typescriptte-light-dom-ve-shadow-dom-kullanimi-ve-farklari
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750846314687/eac88c07-18b9-4f44-899a-14336342118c.png
