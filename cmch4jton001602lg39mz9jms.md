@@ -2,7 +2,7 @@
 title: "JavaScript'te "Inheritance" (Miras Alma) Kavramı Nedir ve Pratik Uygulaması Nasıl Olur? (Class ve Prototype Farkı, Prototype Chain vs.)"
 seoTitle: "JavaScript Miras: Sınıflar ve Prototipler"
 seoDescription: "JavaScript'in kullandığı Nesne Tabanlı Programlamanın (OOP) sınıf kavramlarından olan inheritance'ın (miras alma) ne olduğunu tartışıyoruz."
-datePublished: Sun Jun 29 2025 03:42:46 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-29T03:42:46.535Z
 cuid: cmch4jton001602lg39mz9jms
 slug: javascriptte-inheritance-miras-alma-kavrami-nedir-ve-pratik-uygulamasi-nasil-olur-class-ve-prototype-farki-prototype-chain-vs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751167810121/e20d792c-2702-4812-b085-800baa6a6a0f.png
