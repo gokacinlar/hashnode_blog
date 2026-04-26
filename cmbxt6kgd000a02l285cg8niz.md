@@ -1,7 +1,7 @@
 ---
 title: "Android Varsayılan Gizlilik Ayarlarını Düzenleme (Samsung & OneUI)"
 seoTitle: "Android Varsayılan Gizlilik Ayarlarını Düzenleme (Samsung & OneUI)"
-datePublished: Sun Jun 15 2025 15:16:54 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-15T15:16:54.925Z
 cuid: cmbxt6kgd000a02l285cg8niz
 slug: android-varsayilan-gizlilik-ayarlarini-duzenleme-samsung-and-oneui
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750000133562/488466c8-7539-4c8e-ba2f-1d4c81e94604.jpeg
