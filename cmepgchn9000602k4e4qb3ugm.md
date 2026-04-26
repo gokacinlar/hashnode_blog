@@ -1,7 +1,7 @@
 ---
 title: "JavaScript'te document.readyState ile load, DOMContentLoaded, window.onload & beforeunload farkları nelerdir?"
 seoDescription: "JavaScript'te document.readyState, load, DOMContentLoaded, window.onload ve beforeunload nedir? Yüklenme durumlarına göre farkları öğrenin"
-datePublished: Sun Aug 24 2025 08:54:33 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-24T08:54:33.813Z
 cuid: cmepgchn9000602k4e4qb3ugm
 slug: javascriptte-documentreadystate-ile-load-domcontentloaded-windowonload-and-beforeunload-farklari-nelerdir
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1755963213162/8ed36319-2bd2-4e74-9a17-599b1b7e356b.jpeg
