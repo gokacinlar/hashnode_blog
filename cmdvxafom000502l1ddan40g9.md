@@ -2,7 +2,7 @@
 title: "JavaScript'te Number() ve parseInt() metotlarının farkları ve performansı"
 seoTitle: "Number vs parseInt: Farklar ve Performans"
 seoDescription: "JavaScript'te parseInt() ve Number() metotlarının farklarını, kullanım alanlarını ve performanslarını öğrenin. İşte detaylar ve örnekler!"
-datePublished: Sun Aug 03 2025 16:55:46 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-03T16:55:46.150Z
 cuid: cmdvxafom000502l1ddan40g9
 slug: javascriptte-number-ve-parseint-metotlarinin-farklari-ve-performansi
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754240102437/3c0608a3-1470-48b0-9633-d79c5d23cacc.png
