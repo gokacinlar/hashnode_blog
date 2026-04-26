@@ -2,7 +2,7 @@
 title: "Neden LinkedIn Hesabım Yok?"
 seoTitle: "Neden LinkedIn Hesabım Yok?"
 seoDescription: "Bir LinkedIn hesabım yok çünkü platformun samimiyetsizliği ve yüzeysel başarı odaklı yapısı, gerçek iş kalitesi ve değerlerinden uzaklaşıyor."
-datePublished: Sun Jul 13 2025 16:42:29 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-13T16:42:29.516Z
 cuid: cmd1wkgzw000602jo3roob6vi
 slug: neden-linkedin-hesabim-yok
 tags: linkedin
