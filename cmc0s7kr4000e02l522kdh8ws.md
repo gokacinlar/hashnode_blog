@@ -2,7 +2,7 @@
 title: "TypeScript ile Kütüphane Kullanmadan Class-based Component (Sınıf Tabanlı Bileşen) Oluşturmak"
 seoTitle: "TypeScript ile Kütüphane Kullanmadan Class-based Component (Sınıf Taba"
 seoDescription: "React gibi popüler kütüphaneleri kullanmaya gerek duymadan yeniden kullanılabilir (reusable) bileşenleri (components) oluşturuyoruz."
-datePublished: Tue Jun 17 2025 17:13:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-17T17:13:00.880Z
 cuid: cmc0s7kr4000e02l522kdh8ws
 slug: typescript-ile-kutuphane-kullanmadan-class-based-component-sinif-tabanli-bilesen-olusturmak
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750180357523/ce891bab-16b4-43e3-bcaa-eacbd14444b6.png
