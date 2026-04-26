@@ -2,7 +2,7 @@
 title: "JavaScript'te map() fonksiyonu ile dinamik verilerle çalışmak (JSON, Diziler)"
 seoTitle: "Dinamik JSON ve Dizi İşleme: map() Kullanımı"
 seoDescription: "Discover how to use JavaScript's `map()` function for dynamic data manipulation with arrays and JSON for effective DOM interaction."
-datePublished: Mon Jul 28 2025 05:45:54 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-28T05:45:54.303Z
 cuid: cmdmopvgf000s02jog3c4dgs8
 slug: javascriptte-map-fonksiyonu-ile-dinamik-verilerle-calismak-json-diziler
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753681495097/d2de1925-ff99-40f0-a540-8127958b1439.jpeg
