@@ -2,7 +2,7 @@
 title: "Linux Hakkında I - Linux’u Kullanmak İçin “Etik” Gerekçelerin Değerlendirilmesi"
 seoTitle: "Linux Hakkında I - Linux’u Kullanmak İçin “Etik” Gerekçelerin Değerlen"
 seoDescription: "Linux, sahipli yazılımlara nazaran etik olarak kullanıcıya ne vaat ediyor?"
-datePublished: Sun Jun 15 2025 15:02:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-15T15:02:00.204Z
 cuid: cmbxsne30000202l9ayzu5x45
 slug: linux-hakkinda-i-linuxu-kullanmak-icin-etik-gerekcelerin-degerlendirilmesi
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749999555999/2dcf6407-6e98-4fc0-a9fd-6f68ac106829.webp
