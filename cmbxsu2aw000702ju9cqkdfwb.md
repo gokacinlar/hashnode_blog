@@ -2,7 +2,7 @@
 title: "Linux Hakkında II - Linux’u Kullanmak İçin “Teknik” Gerekçelerin Değerlendirilmesi"
 seoTitle: "Linux Hakkında II - Linux’un “Teknik” Gerekçelerinin Değerlendirilmesi"
 seoDescription: "Linux, sahip olduğu yazılımsal felsefe & donanımıyla, son kullanıcı ve power userler için ne ifade ediyor?"
-datePublished: Sun Jun 15 2025 15:07:11 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-15T15:07:11.528Z
 cuid: cmbxsu2aw000702ju9cqkdfwb
 slug: linux-hakkinda-ii-linuxu-kullanmak-icin-teknik-gerekcelerin-degerlendirilmesi
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749999943133/4efe3664-d710-4746-a01d-dbc17baf9695.webp
